@@ -8,6 +8,9 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ViewFlipper;
 
+/* baga zergiin tailbar*/
+
+
 public class MainActivity extends Activity {
 
     int mFlipping = 0 ; // Initially flipping is off
